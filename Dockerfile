@@ -11,5 +11,4 @@ RUN git clone https://github.com/tiehuis/2048-cli.git && cd 2048-cli && make && 
 
 # 安装snake-game
 # RUN go gettgithub.com/DyegoCosta/snake-game && mv $GOPATH/bin/snake-game /usr/bin/snake-game
-
-RUN apt install -y 
+ENV PATH /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
