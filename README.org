@@ -1,0 +1,138 @@
+#+TITLE: README
+#+AUTHOR: lujun9972
+#+TAGS: TextFun
+#+DATE: [2018-12-11 二 11:55]
+#+LANGUAGE:  zh-CN
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+* boxes
+使用字符串构造边框
+
+* sl
+呼啸而过的火车
+
+* fortune
+显示名人谚语
+
+* fortune-zh
+唐诗宋词
+* cowsay
+动物会说话
+
+* lolcat
+为输染上彩虹色彩
+
+* tetris
+俄罗斯方块
+
+* 2048-cli
+2048游戏
+
+* bsd-games
+BSD命令行游戏集合
+
++ adventure ::	the original adventure by Crowther and Woods
++ arithmetic :: arithmetic quiz/speed test
++ atc :: air traffic control
++ backgammon :: backgammon
++ banner :: display a message in big letters
++ battlestar :: adventure game on a battlestar
++ bcd :: outputs text in an antique form
++ boggle :: boggle
++ caesar :: reads fortunes from the game fortune, also some internet posts
++ canfield :: curses-based solitaire
++ countmail :: tell you how much new mail you have
++ cribbage :: cribbage
++ dab :: dots and boxes
++ dm :: dungeon master, regulates games playing
++ factor :: factor a number
++ fish :: go fish
++ fortune :: displays a random silly message
++ gomoku :: gomoku
++ hack :: exploring the Dungeons of Doom
++ hangman :: guess the word before it is too late
++ hunt :: hunt each other in a maze (multiplayer -- great)
++ mille :: mille borne against the computer
++ monop :: monopoly
++ morse :: output morse code
++ number :: output the English text for a number
++ phantasia :: interterminal fantasy game
++ pig :: output text in Pig Latin
++ pom :: display the phase of the moon
++ ppt :: outputs text in another antique form
++ primes :: generate primes
++ quiz :: random knowledge tests
++ rain :: attempts to create a rain drop effect (best at 9600 baud)
++ random :: random lines from a file or random numbers
++ robots :: well... avoid the robots
++ sail :: sail your ship into battle
++ snake :: grab the cash and avoid the snake and exit
++ tetris :: tetris
++ trek :: We come in peace, shoot to kill.  It's worse than that, he's dead Jim.  Ye cannot change the laws of physics.  It's life Jim, but not as we know it.  There's Klingons on the starboard bow ...
++ wargames :: would you like to play a game?
++ worm :: eat the numbers without running into anything
++ worms :: random worms scurrying across your screen
++ wtf :: translate acronyms, e.g. "wtf is WTF"
++ wump :: hunt the wumpus
+
+* cmatrix
+黑客帝国
+
+* toilet / figlet / banner
+生成艺术字
+
+* hollywood
+绚丽仪表盘
+
+* aafire
+字符串大火
+
+* bb
+字符串视频
+
+* ASCIIquarium
+字符串水族馆
+
+* linuxlogo
+显示linux logo
+
+* aview
+用字符串显示图片
+
+* espeak
+文本说话
+
+* rig
+随机产生人名与地址
+
+* bastet
+俄罗斯方块
+
+* ninvaders
+太空入侵
+
+* pacman4console
+吃豆人
+
+* nsnake
+贪吃蛇
+
+* greed
+数字表示下一步可前进的步数，游戏的目标是在咬到自己尾巴之前尽可能多走几步。
+
+* moon-buggy
+月球战争
+
+* roguelike games
+
+** crawl 
+
+** rogue
+
+** gearhead
+
+** omega-rpg
+
+** tome
+
+** zangband
