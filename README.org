@@ -138,3 +138,5 @@ BSD命令行游戏集合
 ** zangband
 * nudoku
 数独游戏
+* bastet
+变态版的俄罗斯方块
