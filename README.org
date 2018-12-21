@@ -136,3 +136,5 @@ BSD命令行游戏集合
 ** tome
 
 ** zangband
+* nudoku
+数独游戏
