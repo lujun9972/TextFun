@@ -1,7 +1,8 @@
 FROM ubuntu
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt update && apt upgrade -y && apt install -y make gcc git curl \
-    boxes sl cowsay fortune-mod lolcat nyancat cmatrix toilet figlet linuxlogo aview espeak rig bastet ninvaders pacman4console nsnake greed moon-buggy hollywood libaa-bin bb fortune-zh crawl gearhead omega-rpg tome zangband bsdgames-nonfree nudoku emacs-nox bastet
+    boxes sl cowsay fortune-mod lolcat nyancat cmatrix toilet figlet linuxlogo aview espeak rig bastet ninvaders pacman4console nsnake greed moon-buggy hollywood libaa-bin bb fortune-zh crawl gearhead omega-rpg tome zangband bsdgames-nonfree nudoku emacs-nox bastet \
+    rm -rf /var/lib/apt/lists/*
 
 WORKDIR /root
 # 安装tetris
